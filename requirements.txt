@@ -1,4 +1,1 @@
 streamlit
-IPython.display
-pydub
-io

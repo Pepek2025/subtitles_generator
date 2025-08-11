@@ -1,9 +1,5 @@
 import streamlit as st
-from IPython.display import Markdown
-from pydub import AudioSegment
-import io
-from io import BytesIO
-from IPython.display import Audio
+
 
 
 st.title("Subtitles :blue[Generator] :tv:")
@@ -20,6 +16,5 @@ if uploaded_file is not None:
 
 
     
-
 
 
